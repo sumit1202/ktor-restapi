@@ -1,7 +1,5 @@
 # ktor-restapi
 
-A simple rest api handling CRUD operations with postgres database.
-
 Connected postgres database (2 dbs: animals, users) using ktorm framework.
 Implemented /animals end point and handled get, post, put, delete http requests (used Postman).
 Implemented /register endpoint : post request : encrypted password via bCrypt library.
