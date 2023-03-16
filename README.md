@@ -8,4 +8,4 @@ Implemented /register endpoint : post request : encrypted password via bCrypt li
 Implemented /login endpoint : post request : added validation, decrypted password via bCrypt library.
 Implemented /me protected endpoint: get request: utilized JWT.
 
-Refrence: https://youtube.com/playlist?list=PLFmuMD2V4CkyR0Pa42Cqu5mIhH17uG8nN
+Reference: https://youtube.com/playlist?list=PLFmuMD2V4CkyR0Pa42Cqu5mIhH17uG8nN
